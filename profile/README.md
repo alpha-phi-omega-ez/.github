@@ -8,4 +8,4 @@ Alpha Phi Omega is an all inclusive community service fraternity. The Epsilon Ze
 - Instagram: [@apoez_rpi](https://www.instagram.com/apoez_rpi/)
 
 ##  On Github we are currently working on:
-- :computer: [New Website!](https://github.com/alpha-phi-omega-ez/apoez.org-flask), Creating a brand new website from scratch using Flask, Jinja Templating, HTML, CSS, and JS.
+- :computer: [New Website!](https://github.com/alpha-phi-omega-ez/apoez.org-flask), Creating a brand new website from scratch using NextUI, FastAPI, and MongoDB
